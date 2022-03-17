@@ -9,6 +9,8 @@ Microsoft Excel and Microsoft Word (Mail Merge)
 - Create EID List and Trasfer information over automatically to a template for labels for quicker execution of LTT Packages.
 - Be able to retain these packages for ease of use and future execution for time savings. 
 - Be able to Print EID, Blind List, and Tags
+- Danger Tag Labels needed to be printed on water proof label paper
 
 ### How It Works: 
 The video below showcases a walkthrough of the program and it's features.
+[![Alternate Text]({image-url})]({video-url} "Link Title")
