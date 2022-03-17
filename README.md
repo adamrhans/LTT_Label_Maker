@@ -13,4 +13,4 @@ Microsoft Excel and Microsoft Word (Mail Merge)
 
 ### How It Works: 
 The video below showcases a walkthrough of the program and it's features.
-[![Alternate Text]({image-url})]({video-url} "Link Title")
+[How To Use]({image-url})]({video-url} "Link Title")
