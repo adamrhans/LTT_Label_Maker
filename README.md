@@ -10,7 +10,3 @@ Microsoft Excel and Microsoft Word (Mail Merge)
 - Be able to retain these packages for ease of use and future execution for time savings. 
 - Be able to Print EID, Blind List, and Tags
 - Danger Tag Labels needed to be printed on water proof label paper
-
-### How It Works: 
-The video below showcases a walkthrough of the program and it's features.
-[How To Use]({image-url})]({video-url} "Link Title")
